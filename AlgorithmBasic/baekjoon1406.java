@@ -1,3 +1,5 @@
+// https://www.acmicpc.net/problem/1406
+
 import java.io.*;
 import java.util.Stack;
 

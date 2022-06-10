@@ -24,6 +24,7 @@
 [baekjoon1018](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1018.java)
 [baekjoon1436](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1436.java)
 [baekjoon1476](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1476.java)
+[baekjoon1748](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1748.java)
 [baekjoon2309](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2309.java)
 [baekjoon2231](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2231.java)
 [baekjoon2798](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2798.java)

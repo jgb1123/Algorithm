@@ -32,6 +32,7 @@
 ## 탐색
 ### DFS
 [baekjoon1260](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1260.java)
+[baekjoon2667](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2667.java)
 [baekjoon11724](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11724.java)
 [baekjoon24479](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon24479.java)
 ### BFS

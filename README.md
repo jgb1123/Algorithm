@@ -39,8 +39,10 @@
 [baekjoon24479](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon24479.java)
 ### BFS
 [baekjoon1260](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1260.java)
+[baekjoon2178](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2178.java)
 [baekjoon2606](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2606.java)
 [baekjoon24444](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon24444.java)
+
 ## 그리디
 [baekjoon1541](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1541.java)
 [baekjoon11047](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11047.java)

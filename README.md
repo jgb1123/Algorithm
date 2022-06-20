@@ -52,6 +52,9 @@
 
 ## 백트래킹
 [baekjoon15649](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15649.java)
+[baekjoon15650](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15650.java)
+[baekjoon15651](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15651.java)
+[baekjoon15652](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15652.java)
 
 ## 구현
 [baekjoon9093](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9093.java)

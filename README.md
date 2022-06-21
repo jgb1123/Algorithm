@@ -31,6 +31,7 @@
 [baekjoon2231](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2231.java)
 [baekjoon2798](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2798.java)
 [baekjoon7568](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon7568.java)
+
 ## 탐색
 ### DFS
 [baekjoon1012](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1012.java)
@@ -51,10 +52,12 @@
 [baekjoon13305](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon13305.java)
 
 ## 백트래킹
+[baekjoon14889](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon14889.java)
 [baekjoon15649](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15649.java)
 [baekjoon15650](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15650.java)
 [baekjoon15651](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15651.java)
 [baekjoon15652](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15652.java)
+
 
 ## 구현
 [baekjoon9093](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9093.java)

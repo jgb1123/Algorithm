@@ -60,6 +60,7 @@
 [baekjoon15652](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15652.java)
 
 ## 다이나믹 프로그래밍
+[baekjoon1149](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1149.java)
 [baekjoon1463](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1463.java)
 [baekjoon1904](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1904.java)
 [baekjoon1912](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1912.java)

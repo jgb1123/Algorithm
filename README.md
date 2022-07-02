@@ -23,6 +23,7 @@
 
 ## 브루트포스
 [baekjoon1018](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1018.java)
+[baekjoon1057](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1057.java)
 [baekjoon1065](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1065.java)
 [baekjoon1436](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1436.java)
 [baekjoon1476](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1476.java)

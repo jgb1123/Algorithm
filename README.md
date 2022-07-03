@@ -70,6 +70,8 @@
 [baekjoon2579](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2579.java)
 [baekjoon2839](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2839.java)
 [baekjoon9461](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9461.java)
+[baekjoon11048](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11048.java)
+
 
 ## 구현
 [baekjoon9093](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9093.java)

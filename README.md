@@ -1,4 +1,9 @@
-# Algorithm 기초
+# Algorithm Middle
+## 탐색
+[baekjoon7576](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon7576.java)
+
+
+# Algorithm Basic
 
 ## 재귀
 [baekjoon17478](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon17478.java)

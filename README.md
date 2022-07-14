@@ -9,6 +9,7 @@
 ## 구현
 [baekjoon15686](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon15686.java)
 [baekjoon14500](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14500.java)
+[baekjoon14503](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14503.java)
 
 
 

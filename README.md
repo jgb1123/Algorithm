@@ -11,6 +11,9 @@
 [baekjoon14500](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14500.java)
 [baekjoon14503](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14503.java)
 
+## 브루트포스
+[baekjoon1759](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1759.java)
+
 
 
 # Algorithm Basic

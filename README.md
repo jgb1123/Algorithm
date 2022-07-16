@@ -10,13 +10,15 @@
 [baekjoon15686](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon15686.java)
 [baekjoon14500](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14500.java)
 [baekjoon14503](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14503.java)
+[baekjoon5430](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon5430.java)
+
 
 ## 브루트포스
 [baekjoon1759](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1759.java)
 
 
 
-# Algorithm Basic
+# Algorithm Beginner
 
 ## 재귀
 [baekjoon17478](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon17478.java)

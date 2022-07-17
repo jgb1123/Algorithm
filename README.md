@@ -28,6 +28,7 @@
 [baekjoon1158](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1158.java)
 [baekjoon1966](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1966.java)
 [baekjoon18258](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon18258.java)
+
 ### 스택
 [baekjoon1406](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1406.java)
 [baekjoon1874](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1874.java)
@@ -39,7 +40,8 @@
 [baekjoon17413](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon17413.java)
 ### 덱
 [baekjoon10866](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon10866.java)
-
+### 우선순위 큐
+[baekjoon15903](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15903.java)
 
 ## 브루트포스
 [baekjoon1018](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1018.java)

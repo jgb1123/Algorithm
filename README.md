@@ -12,6 +12,7 @@
 [baekjoon14503](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14503.java)
 [baekjoon5430](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon5430.java)
 [baekjoon14891](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14891.java)
+[baekjoon3190](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon3190.java)
 
 
 ## 브루트포스

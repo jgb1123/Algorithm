@@ -57,7 +57,7 @@
 [baekjoon2798](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2798.java)
 [baekjoon7568](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon7568.java)
 
-## 탐색
+## 그래프
 ### DFS
 [baekjoon1012](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1012.java)
 [baekjoon1260](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1260.java)
@@ -72,6 +72,13 @@
 [baekjoon2178](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2178.java)
 [baekjoon2606](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2606.java)
 [baekjoon24444](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon24444.java)
+
+## 트리
+### BST
+[baekjoon1991](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1991.java)
+
+
+
 
 ## 그리디
 [baekjoon1080](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1080.java)

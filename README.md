@@ -60,6 +60,7 @@
 [baekjoon2231](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2231.java)
 [baekjoon2798](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2798.java)
 [baekjoon7568](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon7568.java)
+[baekjoon14888](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon14888.java)
 
 ## 그래프
 ### DFS

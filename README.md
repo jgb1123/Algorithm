@@ -82,9 +82,6 @@
 ### BST
 [baekjoon1991](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1991.java)
 
-
-
-
 ## 그리디
 [baekjoon1080](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1080.java)
 [baekjoon1541](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1541.java)
@@ -115,10 +112,11 @@
 [baekjoon9461](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9461.java)
 [baekjoon11048](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11048.java)
 
-
 ## 구현
+[baekjoon2504](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2504.java)
 [baekjoon9093](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9093.java)
 [baekjoon11655](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11655.java)
+
 
 ## 정렬
 [baekjoon11656](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11656.java)

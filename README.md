@@ -18,9 +18,11 @@
 [baekjoon14891](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14891.java)
 [baekjoon3190](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon3190.java)
 
-
 ## 브루트포스
 [baekjoon1759](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1759.java)
+
+## 투 포인터
+[baekjoon1806](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1806.java)
 
 
 

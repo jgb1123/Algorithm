@@ -28,6 +28,9 @@
 ## 투 포인터
 [baekjoon1806](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1806.java)
 
+## 분할정복
+[baekjoon1074](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1074.java)
+
 
 
 # Algorithm Beginner

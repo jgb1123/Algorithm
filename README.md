@@ -138,3 +138,5 @@
 [baekjoon6588](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon6588.java)
 [baekjoon11659](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11659.java)
 
+## 문자열
+[baekjoon5525](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon5525.java)

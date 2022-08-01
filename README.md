@@ -140,3 +140,6 @@
 
 ## 문자열
 [baekjoon5525](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon5525.java)
+
+## 분할정복
+[baekjoon2630](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2630.java)

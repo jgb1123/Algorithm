@@ -30,6 +30,7 @@
 
 ## 분할정복
 [baekjoon1074](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1074.java)
+[baekjoon1629](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1629.java)
 
 
 

@@ -134,6 +134,7 @@
 
 ## 정렬
 [baekjoon11656](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11656.java)
+[baekjoon18870](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon18870.java)
 
 ## 수학
 [baekjoon1929](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1929.java)

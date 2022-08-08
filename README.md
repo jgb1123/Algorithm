@@ -101,6 +101,7 @@
 ## 그리디
 [baekjoon1080](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1080.java)
 [baekjoon1541](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1541.java)
+[baekjoon1931](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1931.java)
 [baekjoon1946](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1946.java)
 [baekjoon11047](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11047.java)
 [baekjoon11399](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11399.java)

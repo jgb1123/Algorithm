@@ -62,6 +62,7 @@
 ### 덱
 [baekjoon10866](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon10866.java)
 ### 우선순위 큐
+[baekjoon1927](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon1927.java)
 [baekjoon15903](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon15903.java)
 
 ## 브루트포스

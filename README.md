@@ -132,6 +132,8 @@
 [baekjoon9461](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon9461.java)
 [baekjoon11048](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11048.java)
 [baekjoon11052](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11052.java)
+[baekjoon11053](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon11053.java)
+
 
 ## 구현
 [baekjoon2504](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmBasic/baekjoon2504.java)

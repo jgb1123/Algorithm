@@ -1,5 +1,5 @@
 # Algorithm Middle
-## 탐색
+## 그래프 탐색
 [baekjoon7576](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon7576.java)
 [baekjoon14502](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon14502.java)
 [baekjoon13549](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon13549.java)
@@ -9,6 +9,8 @@
 ### Floyd Warshall
 [baekjoon11403](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon11403.java)
 
+### Dijkstra
+[baekjoon1916](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1916.java)
 
 ## 트리
 [baekjoon5639](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon5639.java)

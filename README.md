@@ -11,6 +11,8 @@
 
 ### Dijkstra
 [baekjoon1916](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1916.java)
+[baekjoon1753](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1753.java)
+
 
 ## 트리
 [baekjoon5639](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon5639.java)

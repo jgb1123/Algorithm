@@ -13,6 +13,7 @@
 [baekjoon1916](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1916.java)
 [baekjoon1753](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1753.java)
 [baekjoon1238](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1238.java)
+[baekjoon1504](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1504.java)
 
 
 

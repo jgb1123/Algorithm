@@ -8,6 +8,8 @@
 
 ### Floyd Warshall
 [baekjoon11403](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon11403.java)
+[baekjoon11404](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon11404.java)
+
 
 ### Dijkstra
 [baekjoon1916](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1916.java)

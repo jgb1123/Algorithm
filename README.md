@@ -45,6 +45,7 @@
 
 ## 브루트포스
 [baekjoon1759](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1759.java)
+[baekjoon1107](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1107.java)
 
 ## 투 포인터
 [baekjoon1806](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon1806.java)

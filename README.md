@@ -7,6 +7,7 @@
 [baekjoon12851](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon12851.java)
 [baekjoon10026](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon10026.java)
 [baekjoon16928](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon16928.java)
+[baekjoon7562](https://github.com/jgb1123/Algorithm/blob/main/AlgorithmMiddle/baekjoon7562.java)
 
 
 ### Floyd Warshall

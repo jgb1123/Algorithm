@@ -1,5 +1,9 @@
 # Coding Test Practice (Programmers)
 ## Lv1
+[Programmers72410](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers72410.java)
+[Programmers76501](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers76501.java)
+[Programmers77484](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers77484.java)
+[Programmers77884](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers77884.java)
 [Programmers81301](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers81301.java)
 [Programmers82612](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers82612.java)
 [Programmers86051](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/Programmers86051.java)

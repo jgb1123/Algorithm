@@ -9,6 +9,8 @@
 [Programmers12905](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers12905.java)
 [Programmers12909](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers12909.java)
 [Programmers12911](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers12911.java)
+[Programmers12913](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers12913.java)
+[Programmers12914](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers12914.java)
 
 
 ## Lv1

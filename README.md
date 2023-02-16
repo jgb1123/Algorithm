@@ -37,6 +37,8 @@
 [Programmers42839](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers42584.java)
 [Programmers42842](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers42584.java)
 [Programmers42883](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers42584.java)
+[Programmers42885](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers42885.java)
+[Programmers43165](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers43165.java)
 
 
 

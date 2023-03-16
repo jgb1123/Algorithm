@@ -154,6 +154,9 @@
 [Programmers59035](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59035.sql)
 [Programmers59036](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59036.sql)
 [Programmers59037](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59037.sql)
+[Programmers59039](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59039.sql)
+[Programmers59403](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59403.sql)
+[Programmers59404](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59404.sql)
 
 
 # Algorithm Middle (Backjoon S1 ~ G1)

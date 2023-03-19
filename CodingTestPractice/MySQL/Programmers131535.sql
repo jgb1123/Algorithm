@@ -1,0 +1,6 @@
+-- 조건에 맞는 회원수 구하기
+
+SELECT COUNT(*) AS USERS -- 개수를 구해서 컬럼명 USERS로
+FROM USER_INFO -- USER_INFO 테이블에서
+WHERE AGE >= 20 AND AGE <= 29 AND JOINED LIKE '2021%' -- AGE는 20이상이고, AGE는 29이하이고, JOINED는 2021로 시작하는
+-- WHERE AGE >= 20 AND AGE <= 29 AND YEAR(JOINED) = 2021 로도 가능

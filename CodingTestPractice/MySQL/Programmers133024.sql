@@ -1,0 +1,5 @@
+-- 인기있는 아이스크림
+
+SELECT FLAVOR -- FLAVOR 조회
+FROM FIRST_HALF -- FIRST_HALF 테이블에서
+ORDER BY TOTAL_ORDER DESC, SHIPMENT_ID -- TOTAL_ORDER 기준으로 내림차순 정렬, 같으면 SHIPMENT_ID 기준으로 오름차순 정렬

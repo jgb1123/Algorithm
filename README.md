@@ -1,5 +1,6 @@
 # Coding Test Practice (Programmers)
-## Lv2
+## JAVA
+### lv2
 [Programmers1829](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers1829.java)
 [Programmers1835](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers1835.java)
 [Programmers1844](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers1844.java)
@@ -75,11 +76,7 @@
 [Programmers160585](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers160585.java)
 [Programmers161989](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv2/Programmers161989.java)
 
-
-
-
-
-## Lv1
+### Lv1
 [Programmers1845](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers1845.java)
 [Programmers12901](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers12901.java)
 [Programmers12903](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers12903.java)
@@ -150,6 +147,10 @@
 [Programmers150370](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers150370.java)
 
 ## MySQL
+### lv2
+[Programmers59038](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59038.sql)
+
+### lv1
 [Programmers59034](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59034.sql)
 [Programmers59035](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59035.sql)
 [Programmers59036](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59036.sql)
@@ -172,6 +173,8 @@
 [Programmers144853](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers144853.sql)
 [Programmers151136](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers151136.sql)
 [Programmers151138](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers151138.sql)
+[Programmers157343](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers157343.sql)
+[Programmers164673](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers164673.sql)
 
 
 # Algorithm Middle (Backjoon S1 ~ G1)

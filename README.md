@@ -161,6 +161,9 @@
 [Programmers59414](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59414.sql)
 [Programmers131115](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131115.sql)
 [Programmers131120](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131120.sql)
+[Programmers131129](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131129.sql)
+[Programmers131130](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131130.sql)
+[Programmers131133](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131133.sql)
 
 ### lv1
 [Programmers59034](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59034.sql)

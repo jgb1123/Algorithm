@@ -1,0 +1,8 @@
+-- 성분으로 구분한 아이스크림 총 주문량(https://school.programmers.co.kr/learn/courses/30/lessons/133026)
+
+SELECT INGREDIENT_TYPE, SUM(TOTAL_ORDER) AS TOTAL_ORDER -- INGREDIENT_TYPE, 해당 그룹의 TOTAL_ORDER의 합을 컬럼명 TOTAL_ORDER로 조회
+FROM FIRST_HALF AS FH -- FIRST_HALF 테이블에
+JOIN ICECREAM_INFO AS II -- ICECREAM_INFO 테이블 조인
+ON FH.FLAVOR = II.FLAVOR -- FH의 FLAVOR와 II의 FLAVOR가 같은 조건만
+GROUP BY INGREDIENT_TYPE -- INGREDIENT_TYPE이 같은 것들끼리 그룹으로
+ORDER BY TOTAL_ORDER -- TOTAL_ORDER 기준으로 오름차순 정렬

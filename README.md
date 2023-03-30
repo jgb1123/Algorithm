@@ -147,6 +147,10 @@
 [Programmers150370](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers150370.java)
 
 ## MySQL
+### lv3
+[Programmers59042](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59042.sql)
+[Programmers59043](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59043.sql)
+
 ### lv2
 [Programmers59038](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59038.sql)
 [Programmers59040](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59040.sql)
@@ -170,6 +174,7 @@
 [Programmers144854](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers144854.sql)
 [Programmers151137](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers151137.sql)
 [Programmers157342](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers157342.sql)
+[Programmers164672](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers164672.sql)
 
 ### lv1
 [Programmers59034](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers59034.sql)

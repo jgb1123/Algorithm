@@ -1,0 +1,9 @@
+-- 오랜 기간 보호한 동물(1)(https://school.programmers.co.kr/learn/courses/30/lessons/59044)
+
+SELECT AI.NAME, AI.DATETIME -- AI.NAME, AI.DATETIME 조회
+FROM ANIMAL_INS AS AI -- ANIMAL_INS 테이블에
+LEFT JOIN ANIMAL_OUTS AS AO -- ANIMAL_OUTS 테이블 LEFT JOIN
+ON AI.ANIMAL_ID = AO.ANIMAL_ID -- ANIMAL_ID가 같은 조건들만
+WHERE AO.DATETIME IS NULL -- AO.DATETIME이 NULL인 것들만
+ORDER BY AI.DATETIME -- AI.DATETIME을 기준으로 오름차순 정렬
+LIMIT 3 -- 3개만 출력

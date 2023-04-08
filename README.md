@@ -154,6 +154,7 @@
 [Programmers131116](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131116.sql)
 [Programmers131117](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131117.sql)
 [Programmers131118](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131118.sql)
+[Programmers131124](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/MySQL/Programmers131124.sql)
 
 
 ### lv3

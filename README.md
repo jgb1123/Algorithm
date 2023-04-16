@@ -147,6 +147,7 @@
 [Programmers142086](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers142086.java)
 [Programmers147355](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers147355.java)
 [Programmers150370](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers150370.java)
+[Programmers155652](https://github.com/jgb1123/Algorithm/blob/main/CodingTestPractice/lv1/Programmers155652.java)
 
 ## MySQL
 ### lv4
